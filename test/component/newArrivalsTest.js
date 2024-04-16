@@ -19,7 +19,7 @@ describe('New Arrivals Component Test', function() {
                 "author": "Yoko Ogawa",
                 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
                 "price": 14.72,
-                "currency": "$",
+                "currency": "Р",
                 "category": "Science Fiction > Dystopian",
                 "isbn13": 9781101911815,
                 "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
