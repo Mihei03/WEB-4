@@ -1,50 +1,50 @@
 {
   "books": [
     {
-      "title": "The Memory Police",
+      "title": "Полиция памяти",
       "author": "Yoko Ogawa",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
-      "price": 14.72,
-      "currency": "$",
-      "category": "Science Fiction > Dystopian",
+      "price": 1384.77,
+      "currency": "Р",
+      "category": "Научная фантастика > Антиутопия",
       "isbn13": 9781101911815,
-      "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+      "description": "На безымянном острове исчезают предметы: сначала шляпы, потом ленты, птицы, розы..."
     },
 
     {
-      "title": "Rhinoceros and Other Plays",
+      "title": "Носорог и другие пьесы",
       "author": "Eugène Ionesco",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
-      "price": 16.00,
-      "currency": "$",
-      "category": "Plays > Theatre",
+      "price": 1505.19,
+      "currency": "Р",
+      "category": "Пьесы > Театр",
       "publisher": "Grove Press",
       "isbn13": 9780802130983,
-      "description": "A rhinoceros suddenly appears in a small town, tramping through its peaceful streets."
+      "description": "В маленьком городке внезапно появляется носорог, бродящий по его мирным улицам."
     },
 
     {
       "title": "Memento Mori",
       "author": "Muriel Spark",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
-      "price": 15.90,
-      "currency": "$",
-      "category": "Novels",
+      "price": 1495.78,
+      "currency": "Р",
+      "category": "Романы",
       "isbn13": 9780811223041,
       "publisher": "New Directions Publishing Corporation",
-      "description": "In late 1950s London, something uncanny besets a group of elderly friends."
+      "description": "В Лондоне конца 1950-х годов что-то сверхъестественное происходит с группой пожилых друзей."
     },
 
     {
-      "title": "Atlas of AI",
+      "title": "Атлас ИИ",
       "author": "Kate Crawford",
       "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
-      "price": 25.76,
-      "currency": "$",
-      "category": "Nonfiction > Technology",
+      "price": 2423.35,
+      "currency": "Р",
+      "category": "Художественная литература > Технологии",
       "publisher": "Yale University Press",
       "isbn13": 9780300209570,
-      "description": "The hidden costs of artificial intelligence--from natural resources and labor to privacy, equality, and freedom"
+      "description": "Скрытые издержки искусственного интеллекта: от природных ресурсов и труда до конфиденциальности, равенства и свободы."
     }
   ]
 }

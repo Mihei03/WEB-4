@@ -6,11 +6,12 @@
           <div class="logo-home"></div>
           <div class="footer-text">
             <div class="social-links">
-              <span class="social twitter"><a href="https://twitter.com/pineviewlabs" target="_blank">Twitter</a></span>
-              <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
+              <span class="social вк"><a href="https://vk.com/mikhailbezmaternykh" target="_blank">ВК</a></span>
+              <span class="social github"><a href="https://github.com/Mihei03?tab=repositories" target="_blank">Github</a></span>
             </div>
 
-            <p>© 2022 Middlemarch. All Right Reserved.</p>
+            <p>© 2024 WEB-4. Все права открыты. <br>
+            (Не убивайте пожалуйста...)</p>
           </div>
         </div>
       </div>
