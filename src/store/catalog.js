@@ -27,7 +27,7 @@ export const useCatalog = defineStore('catalog-store', {
         this.newArrivals = result.books;
       } catch (err) {
         this.newArrivals = [];
-        console.error('Error loading new arrivals:', err);
+        console.error('Ошибка при загрузке новых поступлений:', err);
         return err;
       }
 

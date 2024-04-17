@@ -15,14 +15,14 @@ describe('New Arrivals Component Test', function() {
           body: {
             books: [
               {
-                "title": "The Memory Police",
+                "title": "Полиция памяти",
                 "author": "Yoko Ogawa",
                 "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
-                "price": 14.72,
+                "price": 1384.77,
                 "currency": "Р",
-                "category": "Science Fiction > Dystopian",
+                "category": "Научная фантастика > Антиутопия",
                 "isbn13": 9781101911815,
-                "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+                "description": "На безымянном острове исчезают предметы: сначала шляпы, потом ленты, птицы, розы..."
               }
             ]
           }
@@ -38,7 +38,7 @@ describe('New Arrivals Component Test', function() {
     expect(component).to.be.visible;
     expect(component).to.have.property('newArrivals');
 
-    expect(component).text.toContain('The Memory Police')
+    expect(component).text.toContain('Полиция памяти')
 
     expect(component.findAll('div.col-md-6')).length(1);
 
@@ -47,6 +47,6 @@ describe('New Arrivals Component Test', function() {
 
   it('logs the innerHTML property', async function(browser) {
     const innerHTML = await browser.getElementProperty(component, 'innerHTML');
-    browser.assert.textContains(component, 'The Memory Police');
+    browser.assert.textContains(component, 'Полиция памяти');
   });
 });
